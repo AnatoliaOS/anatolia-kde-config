@@ -1,2 +1,1 @@
-# anatolia-kde-config
- 
+# anatolia-kde-config-main
